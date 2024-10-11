@@ -12,7 +12,7 @@ spec:
   template:
     metadata:
       labels:
-        app: demo-flask-backend
+        app: demo-flask-backend #
     spec:
       containers:
         - name: demo-flask-backend
